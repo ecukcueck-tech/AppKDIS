@@ -2,6 +2,7 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
+  "description": "вкусные десерты и торты на заказ",
   "name": "Ксюшины десерты",
   "orientation": "any",
   "scope": "/",
@@ -22,5 +23,5 @@
       "is192x192": false
     }
   ],
-  "id": "КДИС"
+  "id": "kdis_app"
 }
