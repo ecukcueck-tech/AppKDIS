@@ -11,7 +11,7 @@
   "theme_color": "#5b3a29",
   "icons": [
     {
-      "src": "data:image/svg+xml,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'&gt;&lt;rect width='200' height='200' rx='40' fill='%23f8c8d4'/&gt;&lt;circle cx='100' cy='95' r='55' fill='%232b2b2b'/&gt;&lt;circle cx='100' cy='95' r='38' fill='%23fff'/&gt;&lt;circle cx='100' cy='95' r='20' fill='%232b2b2b'/&gt;&lt;/svg&gt;",
+      "src": "data:image/svg+xml,&amp;lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'&amp;gt;&amp;lt;rect width='200' height='200' rx='40' fill='%23f8c8d4'/&amp;gt;&amp;lt;circle cx='100' cy='95' r='55' fill='%232b2b2b'/&amp;gt;&amp;lt;circle cx='100' cy='95' r='38' fill='%23fff'/&amp;gt;&amp;lt;circle cx='100' cy='95' r='20' fill='%232b2b2b'/&amp;gt;&amp;lt;/svg&amp;gt;",
       "type": "image/svg+xml",
       "isSquare": false,
       "isPng": false,
